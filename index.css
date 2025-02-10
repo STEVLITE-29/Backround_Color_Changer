@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    padding-top: 60px;
+}
+
+p{
+    font-size: medium;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+#btn {
+    margin-top: 100px;
+    padding: 20px;
+    background-color: goldenrod;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
